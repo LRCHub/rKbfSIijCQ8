@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Yessir",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2026-02-10T13:54:42.378745Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yessir!",
+      "artist": "DOOM feat. Raekwon",
+      "has_synced": false,
+      "path": "select/01_Yessir!_DOOM_feat._Raekwon.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yessir! (Feat. Raekwon)",
+      "artist": "DOOM",
+      "has_synced": false,
+      "path": "select/02_Yessir!_(Feat._Raekwon)_DOOM.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YESSIR!",
+      "artist": "Rarin",
+      "has_synced": true,
+      "path": "select/03_YESSIR!_Rarin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "YESSIR!",
+      "artist": "MF DOOM feat. Raekwon",
+      "has_synced": false,
+      "path": "select/04_YESSIR!_MF_DOOM_feat._Raekwon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "YESSIR!",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/05_YESSIR!_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yessir! (feat. Raekwon)",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/06_Yessir!_(feat._Raekwon)_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YESSIR",
+      "artist": "3YE",
+      "has_synced": true,
+      "path": "select/07_YESSIR_3YE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "YESSIR",
+      "artist": "3YE",
+      "has_synced": true,
+      "path": "select/08_YESSIR_3YE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Yessir! (feat. Raekwon)",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/09_Yessir!_(feat._Raekwon)_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yessir! (ft. Raekwon)",
+      "artist": "DOOM",
+      "has_synced": false,
+      "path": "select/10_Yessir!_(ft._Raekwon)_DOOM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yessir!",
+      "artist": "DOOM feat. Raekwon",
+      "has_synced": true,
+      "path": "select/11_Yessir!_DOOM_feat._Raekwon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yessir",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/12_Yessir_Nav.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yessir",
+      "artist": "Rod Wave",
+      "has_synced": true,
+      "path": "select/13_Yessir_Rod_Wave.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yessir",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/14_Yessir_NAV.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "YESSIR!",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/15_YESSIR!_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "YESSIR!",
+      "artist": "MF DOOM, Raekwon",
+      "has_synced": true,
+      "path": "select/16_YESSIR!_MF_DOOM,_Raekwon.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Yessir",
+      "artist": "B.A.P",
+      "has_synced": true,
+      "path": "select/17_Yessir_B.A.P.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "yessir.",
+      "artist": "grouptherapy.",
+      "has_synced": true,
+      "path": "select/18_yessir._grouptherapy..lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Yessir.",
+      "artist": "grouptherapy. & SWIM",
+      "has_synced": true,
+      "path": "select/19_Yessir._grouptherapy._&_SWIM.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Yessir",
+      "artist": "¥ellow Bucks, Eric.B.Jr",
+      "has_synced": false,
+      "path": "select/pl_01_Yessir_¥ellow_Bucks,_Eric.B.Jr.txt"
+    }
+  ]
+}
