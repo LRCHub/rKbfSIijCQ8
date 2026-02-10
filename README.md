@@ -1,0 +1,77 @@
+# ¥ellow Bucks – Yessir
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+yessir yo buddy 任せろ
+Leave it to me
+yessir, 火を吹くビートを
+Give it to me
+yessir, 言い聞かせるんだぜ
+We can do it
+yessir, yessir
+yessir, まだ始まったばっかの旅
+yessir, 俺らに出来ることは何？
+yessir, 下がる気ははかから無し
+yessir, yessir
+カモのカーゴのポケットが膨らむ
+ただの馬鹿は夢ばっか膨らむ
+井戸の中の蛙じゃ務まらん
+知ったかぶる奴はすぐくらます
+(yessir)まず仕組みを知る
+お堅い常識はKill
+1.2.3.4.5.SEX
+外れたネジを金に変えていく
+テクニックなら圧倒的上級者
+テクニックスを回す奴みたいだ
+ストリートに音符を降らすオレ等
+ストレスから生まれる
+Money and power
+Ah yeah 掴み取る運とタイミング
+って言ってた先生間違いない
+Ah yeah 俺達はどこまで行けるか
+試してみたいだけのただのバカでぃ
+yessir yo buddy 任せろ
+Leave it to me
+yessir, 火を吹くビートを
+Give it to me
+yessir, 言い聞かせるんだぜ
+We can do it
+yessir, yessir
+yessir, まだ始まったばっかの旅
+yessir, 俺らに出来ることは何？
+yessir, 下がる気ははなから無し
+yessir, yessir
+綺麗事求めてくんな俺に
+あくまで悪魔は分かるよな？
+ゲットーキッズ
+このままじゃレールさ檻の中
+あのパイセンみたく俺なりたくない
+Eastside静まる夜
+トランク中ある凶器
+Westside見つかるポリス
+週３でカーチェイス
+Eastside地元じゃしてる顔バレ
+Eastside Westside
+ちょっとバズったくらいで
+手のひら返した
+俺サボったら一発屋呼ばわりじゃん
+気にしねぇよ他所様のヘイトなんざ
+グロック所持してないが俺様
+ロックスター
+ギャングミスればギャング
+ギャング教科書すらギャング
+ファックわかるか
+ゲットー叩き込みedjスラムダンク
+yessir yo buddy 任せろ
+Leave it to me
+yessir, 火を吹くビートを
+Give it to me
+yessir, 言い聞かせるんだぜ
+We can do it
+yessir, yessir
+yessir, まだ始まったばっかの旅
+yessir, 俺らに出来ることは何？
+yessir, 下がる気ははなから無し
+yessir, yessir
+```
